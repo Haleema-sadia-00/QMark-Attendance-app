@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "286284015485",
+    "firebase_url": "https://semesterproject-152cb-default-rtdb.firebaseio.com",
+    "project_id": "semesterproject-152cb",
+    "storage_bucket": "semesterproject-152cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286284015485:android:36d3cc0ce4485552b5ce14",
+        "android_client_info": {
+          "package_name": "com.example.semproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUT5aV6hnTAFWqo16xpkDPm3GCZqzqr1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
