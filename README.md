@@ -52,8 +52,6 @@ A professional, student-level attendance management app built with **Flutter** a
 ---
 Screen Shots
 
-
-https://github.com/user-attachments/assets/0974913e-84b5-4d3f-af2b-6f52f7be401d
 <img width="291" height="582" alt="image" src="https://github.com/user-attachments/assets/4db11e93-3f2f-4137-bcfd-386b2a121986" />
 <img width="301" height="590" alt="image" src="https://github.com/user-attachments/assets/2434d430-dde7-4734-8319-8a2c12c58753" />
 <img width="288" height="510" alt="image" src="https://github.com/user-attachments/assets/bb7c166c-3435-4590-9a8a-2342150d736a" />
@@ -61,4 +59,6 @@ https://github.com/user-attachments/assets/0974913e-84b5-4d3f-af2b-6f52f7be401d
 <img width="215" height="428" alt="image" src="https://github.com/user-attachments/assets/d6bb4b59-ef5c-4914-8adc-7f42b9a7eb71" />
 <img width="277" height="600" alt="image" src="https://github.com/user-attachments/assets/d82498e3-2114-4dd2-81c3-46014f5f598e" />
 <img width="288" height="510" alt="image" src="https://github.com/user-attachments/assets/8a005f1a-78aa-4046-ab99-c47158ae5dc3" />
+ https://github.com/user-attachments/assets/0974913e-84b5-4d3f-af2b-6f52f7be401d
+
 
